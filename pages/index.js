@@ -3,7 +3,7 @@ import styles from "../styles/Home.module.css";
 export default function Home() {
   return (
     <div className={styles.container}>
-      <h1>HOla mundo</h1>
+      <h1>Edman Cota</h1>
     </div>
   );
 }
